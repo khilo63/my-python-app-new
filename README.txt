@@ -10,6 +10,4 @@ https://hub.docker.com/layers/khilo63/my-python-app/latest/images/sha256:69a0974
 
 
 ### GITHUB URL
-1. Pull the Docker image:
-   ```bash
-   docker pull khilo63/todo-app
+https://github.com/khilo63/my-python-app-new
